@@ -1,3 +1,4 @@
+// Weather class on andmete kättesaamiseks
 class Weather {
     constructor(city) {
         this.city = city;
